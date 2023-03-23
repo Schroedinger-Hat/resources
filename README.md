@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1></h1>
+  <h1>Resources</h1>
   
   <a href="https://github.com/Schrodinger-Hat/resources">
     <img src="public/sh.png" alt="Logo" width="80" height="80">
