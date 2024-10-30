@@ -12,20 +12,20 @@
 <div align="center">
   <h1>Resources</h1>
   
-  <a href="https://github.com/Schrodinger-Hat/resources">
+  <a href="https://github.com/schroedinger-Hat/resources">
     <img src="public/sh.png" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
     <br />
-    <a href="https://github.com/Schrodinger-Hat/resources/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/schroedinger-Hat/resources/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.schrodinger-hat.it/">View Demo</a>
+    <a href="https://www.schroedinger-hat.org/">View Demo</a>
     ·
-    <a href="https://github.com/Schrodinger-Hat/resources/issues">Report Bug</a>
+    <a href="https://github.com/schroedinger-Hat/resources/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Schrodinger-Hat/resources/issues">Request Feature</a>
+    <a href="https://github.com/schroedinger-Hat/resources/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,19 +74,18 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Schrodinger's Hat Team - [@schrodinger_hat](mailto:schrodinger.hat.show@gmail.com)
+schroedinger's Hat Team - [@schroedinger_hat](mailto:dev@schroedinger-hat.org)
 
-Project Link: [https://github.com/Schrodinger-Hat/resources](https://github.com/Schrodinger-Hat/resources)
+Project Link: [https://github.com/schroedinger-Hat/resources](https://github.com/schroedinger-Hat/resources)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/resources.svg?style=for-the-badge
-[contributors-url]: https://github.com/Schrodinger-Hat/resources/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/resources.svg?style=for-the-badge
-[forks-url]: https://github.com/Schrodinger-Hat/resources/network/members
-[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/resources?style=for-the-badge
-[stars-url]: https://github.com/Schrodinger-Hat/resources/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/resources.svg?style=for-the-badge
-[issues-url]: https://github.com/Schrodinger-Hat/resources/issues
-
+[contributors-shield]: https://img.shields.io/github/contributors/schroedinger-Hat/resources.svg?style=for-the-badge
+[contributors-url]: https://github.com/schroedinger-Hat/resources/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/schroedinger-Hat/resources.svg?style=for-the-badge
+[forks-url]: https://github.com/schroedinger-Hat/resources/network/members
+[stars-shield]: https://img.shields.io/github/stars/schroedinger-Hat/resources?style=for-the-badge
+[stars-url]: https://github.com/schroedinger-Hat/resources/stargazers
+[issues-shield]: https://img.shields.io/github/issues/schroedinger-Hat/resources.svg?style=for-the-badge
+[issues-url]: https://github.com/schroedinger-Hat/resources/issues
